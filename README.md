@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+
+Tài khoản Quản trị
+ID duyvbadmin
+Pass :123456abC
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
